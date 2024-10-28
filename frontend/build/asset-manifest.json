@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Capstone/static/css/main.5cbe05a1.css",
+    "main.js": "/Capstone/static/js/main.58a910e3.js",
+    "static/media/homepic.png": "/Capstone/static/media/homepic.57b81917aeebb4779c2e.png",
+    "static/media/sweet&sour.png": "/Capstone/static/media/sweet&sour.a67971c81833d5b300c8.png",
+    "static/media/porkchops.png": "/Capstone/static/media/porkchops.44b3772b64881573cf5f.png",
+    "static/media/bestseller.png": "/Capstone/static/media/bestseller.23fa9db6bc46852b27d5.png",
+    "static/media/slider.png": "/Capstone/static/media/slider.b823b214ff35a6b1ea48.png",
+    "static/media/dumplings.png": "/Capstone/static/media/dumplings.790655a1d3792ae28d4b.png",
+    "static/media/homelogo.png": "/Capstone/static/media/homelogo.04e1029bb317fca18997.png",
+    "static/media/delivery1.png": "/Capstone/static/media/delivery1.b416703d684892b5f285.png",
+    "static/media/aboutus-text1.png": "/Capstone/static/media/aboutus-text1.f9797ad373f8e2e335eb.png",
+    "static/media/order.png": "/Capstone/static/media/order.a9daf51f76946bb1af74.png",
+    "static/media/call.png": "/Capstone/static/media/call.34878209eb09cb5a94b6.png",
+    "static/media/aboutus-text2.png": "/Capstone/static/media/aboutus-text2.26dba848ca5137f5bf74.png",
+    "static/media/address.png": "/Capstone/static/media/address.2ed45d39e57a2cd313c3.png",
+    "static/media/cloud.png": "/Capstone/static/media/cloud.c3e037f89c85396b04b6.png",
+    "index.html": "/Capstone/index.html",
+    "main.5cbe05a1.css.map": "/Capstone/static/css/main.5cbe05a1.css.map",
+    "main.58a910e3.js.map": "/Capstone/static/js/main.58a910e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cbe05a1.css",
+    "static/js/main.58a910e3.js"
+  ]
+}
